@@ -17,6 +17,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 				)
 
 		)
+
+		/*way*/
 )
 public class FirstMicroserviceApplication {
 
